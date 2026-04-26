@@ -1,5 +1,5 @@
 streamlit
 pandas
-matplotlib
+matplotlib==3.8.0
 seaborn
 plotly
