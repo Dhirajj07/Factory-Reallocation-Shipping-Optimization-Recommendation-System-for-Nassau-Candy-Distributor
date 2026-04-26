@@ -1,5 +1,4 @@
 import base64
-from unittest import result
 from matplotlib import pyplot as plt
 import numpy as np
 import seaborn as sns
